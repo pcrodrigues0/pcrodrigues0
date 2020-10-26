@@ -14,7 +14,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pcqrodrigues0&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=nlw-03-omnistack&theme=blueberry)](https://github.com/pcrodrigues0/nlw-03-omnistack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=serverless-js-boilerplate&theme=blueberry)](https://github.com/pcrodrigues0/serverless-js-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=serverless-babel-webpack&theme=blueberry)](https://github.com/pcrodrigues0/serverless-js-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=serveless-ts-boilerplate&theme=blueberry)](https://github.com/pcrodrigues0/serveless-ts-boilerplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=prismasample&theme=blueberry)](https://github.com/pcrodrigues0/prismasample)
 
