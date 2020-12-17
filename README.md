@@ -11,7 +11,6 @@
 ---
 [![Paulo Rodrigues github stats](https://github-readme-stats.vercel.app/api?username=pcrodrigues0&count_private=true&show_icons=true&theme=blueberry)](https://github.com/pcrodrigues0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcrodrigues0&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pcqrodrigues0&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=nlw-03-omnistack&theme=blueberry)](https://github.com/pcrodrigues0/nlw-03-omnistack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pcrodrigues0&repo=serverless-babel-webpack&theme=blueberry)](https://github.com/pcrodrigues0/serverless-js-boilerplate)
